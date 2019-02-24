@@ -1,0 +1,26 @@
+{
+  "name": "nicocrow.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoCrow/nicocrow.github.io.git"
+  },
+  "author": "NicoCrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoCrow/nicocrow.github.io/issues"
+  },
+  "homepage": "https://github.com/NicoCrow/nicocrow.github.io#readme",
+  "devDependencies": {
+    "ts-loader": "^5.3.3",
+    "tslint": "^5.13.0",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  }
+}
